@@ -9,44 +9,15 @@ List of software &amp; tools that keeps me sane.
 ---
 
 | name                                      | Desc                                                                                  | type          | Licence    |
-| ----------------------------------------- | ------------------------------------------------------------------------------------- | ------------- | ---------- | --- |
+| ----------------------------------------- | ------------------------------------------------------------------------------------- | ------------- | ---------- | 
 | [Arch os](https://archlinux.org/)         | Stopped distro hopping after installing Arch                                          | OS            | Opensource |
-| [kitty](https://sw.kovidgoyal.net/kitty/) | Once a guy reccomended, stopped term hopping since then                               | Terminal      | Opensource |     |
-| [fish](https://fishshell.com/)            | Recently moved from zsh, getting the hang of it now. fish ell might be the best sofar | Shell         | Opensource |     |
-| [ripcord](https://cancel.fm/ripcord/)     | Never using slack app unless i need it. slack is too fancy for me to use, a boomer.   | Communication | Opensource |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
-|                                           |                                                                                       |               |            |     |
+| [kitty](https://sw.kovidgoyal.net/kitty/) | Once a guy reccomended, stopped term hopping since then                               | Terminal      | Opensource |     
+| [fish](https://fishshell.com/)            | Recently moved from zsh, getting the hang of it now. fish ell might be the best sofar | Shell         | Opensource |     
+| [ripcord](https://cancel.fm/ripcord/)     | Never using slack app unless i need it. slack is too fancy for me to use, a boomer.   | Communication | Opensource |     
+|                                           |                                                                                       |               |            |     
+|                                           |                                                                                       |               |            |
+
+More to be added...
 
 ### On Android
 
