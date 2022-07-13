@@ -2,7 +2,6 @@
 
 # Software and Applications I prefer to have installed
 
-
 ### On Desk/Lap (Linux)
 
 ---
@@ -26,7 +25,7 @@ More to be added...
 | [Cloud Stream](https://github.com/LagradOst/CloudStream-3)                                        | Streams movies, anime and more                                   | Streaming service | Opensource |
 | [Unexpected Keyboard](https://f-droid.org/en/packages/juloo.keyboard2/)                           | Awesome keyboard for android                                     | Keyboard          | Opensource |
 | [Librera Reader](https://f-droid.org/packages/com.foobnix.pro.pdf.reader/)                        | Awesome pdf, ebook reader for android                            | Reader            | Opensource |
-| [A2LN](https://f-droid.org/en/packages/dev.patri9ck.a2ln/)                                        | Shows notification of your android device to your linux machine  | Utility           | Opensource |
+| [AN2Linux](https://f-droid.org/en/packages/kiwi.root.an2linuxclient/)                             | Shows notification of your android device to your linux machine  | Utility           | Opensource |
 | [ArchWiki Viewer](https://f-droid.org/en/packages/com.jtmcn.archwiki.viewer/)                     | Read Arch wiki anytime anywhere                                  | Reader            | OpenSource |
 | [Aria2App](https://f-droid.org/packages/com.gianlu.aria2app/)                                     | Slow download speed? Use your full bandwidth with this           | Utility           | Opensource |
 | [Aurora](https://f-droid.org/en/packages/com.funkymuse.aurora/)                                   | Non-official Library Genesis mobile client.                      | Downloader        | Opensource |
@@ -52,3 +51,13 @@ More to be added...
 | [Notification Dictionary](https://f-droid.org/en/packages/com.xtreak.notificationdictionary/)     | An Android app to display meaning of the word as notification.   | Utility           | Opensource |
 | [Vibe](https://f-droid.org/en/packages/me.lucky.vibe/)                                            | Vibrate on a call answer or end                                  | Utility           | Opensource |
 | [Finder](https://f-droid.org/en/packages/ru.seva.finder/)                                         | Remote mobile phone searching via SMS requests.                  | Utility           | Opensource |
+| [Infinity](https://f-droid.org/en/packages/ml.docilealligator.infinityforreddit/)                 | A beautiful, feature-rich Reddit client.                         | Reddit Client     | Opensource |
+| [mpv-android](https://f-droid.org/en/packages/is.xyz.mpv/)                                        | Listen to music and watch video                                  | Media Player      | Opensource |
+| [SpotiFlyer](https://f-droid.org/en/packages/com.shabinder.spotiflyer/)                           | Download All your songs from Spotify and more                    | Downloader        | Opensource |
+| [Uploadgram](https://f-droid.org/en/packages/com.pato05.uploadgram/)                              | Telegram as a file storage                                       | Utility           | Opensource |
+| [mpv-remote](https://f-droid.org/en/packages/miccah.mpvremote/)                                   | Android application to control mpv running on another computer.  | Utility           | Opensource |
+| [ServeIt](https://f-droid.org/en/packages/com.example.flutter_http_server/)                       | ServeIt is a simple http-server on android device.               | Utility           | Opensource |
+| [IsMyWebsiteUp](https://f-droid.org/en/packages/io.github.ismywebsiteup/)                         | Make sure your website is up, and alert if otherwise.            | Utility           | Opensource |
+| [DuckDuckGo](https://f-droid.org/en/packages/com.duckduckgo.mobile.android/)                      | Privacy, simplified                                              | Browser           | Opensource |
+| [Nekogram X](https://f-droid.org/en/packages/nekox.messenger/)                                    | The third-party Telegram android app.                            | Communiaction     | Opensource |
+| [Disabler](https://f-droid.org/en/packages/com.servoz.appsdisabler/)                              | Disable / freez android applications                             | Utilities         | Opensource |
