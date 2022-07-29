@@ -12,7 +12,7 @@
 | [kitty](https://sw.kovidgoyal.net/kitty/) | Once a guy reccomended, stopped term hopping since then                               | Terminal      | Opensource |
 | [fish](https://fishshell.com/)            | Recently moved from zsh, getting the hang of it now. fish ell might be the best sofar | Shell         | Opensource |
 | [ripcord](https://cancel.fm/ripcord/)     | Never using slack app unless i need it. slack is too fancy for me to use, a boomer.   | Communication | Opensource |
-|                                           |                                                                                       |               |            |
+| [neovide  (https://github.com/neovide/neovide/)| Neovim on rust, beautiful af | Text Editor               | Opensource            |
 |                                           |                                                                                       |               |            |
 
 More to be added...
